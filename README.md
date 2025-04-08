@@ -31,6 +31,51 @@ The dashboard uses historical bike sales data and may include additional data fr
 - **Modifying Visualizations:** Customize charts by right-clicking on them and selecting format options to suit your reporting style.
 - **Extending Analysis:** Use Excel formulas and functions to create additional metrics as needed.
 
+## Skills Required
+
+This project required a combination of data handling, visualization, and analytical skills:
+
+### **1. Data Collection & Cleaning:**  
+- **Data Acquisition:** Ability to work with datasets and import them into Excel.  
+- **Data Cleaning & Preprocessing:**  
+  - Handling missing values and duplicates.  
+  - Using **Find & Replace** for categorical data standardization.  
+  - Removing decimal places to maintain consistency.  
+
+### **2. Excel & Data Manipulation:**  
+- **Pivot Tables:**  
+  - Creating pivot tables to summarize and analyze data efficiently.  
+- **Formulas & Functions:**  
+  - **IF statements** (e.g., creating Age Brackets using `=IF(...)`).  
+  - Logical operators to categorize and group data.  
+
+### **3. Data Visualization & Dashboard Design:**  
+- **Chart Creation:**  
+  - Column charts for categorical comparisons.  
+  - Line charts for trend analysis.  
+- **Slicers & Interactivity:**  
+  - Connecting slicers to multiple charts for better usability.  
+- **Dashboard Layout & Design:**  
+  - Organizing visuals effectively for readability and insights.  
+
+### **4. Data Analysis & Business Insights:**  
+- **Pattern Recognition:** Identifying trends in purchasing behavior.  
+- **Decision-Making Insights:** Translating analysis into business strategies.  
+
+### **5. Critical Thinking & Problem-Solving:**  
+- Understanding how different variables (income, age, commute distance) impact bike purchases.  
+- Suggesting **business actions** based on observed data trends.  
+
+### **6. Report Writing & Documentation:**  
+- Creating structured documentation explaining project implementation.  
+- Summarizing findings and making business recommendations.  
+
+### **Additional Skills for Further Enhancements:**  
+If you want to expand this project, consider learning:  
+- **Power BI**: For interactive dashboards with advanced visualizations.  
+- **Python (Pandas, Matplotlib, Seaborn)**: For deeper data analysis and automation.  
+- **SQL**: For handling large datasets efficiently.  
+
 ## Contact Information
 For further assistance or to report issues, please contact the developer or maintainer of the dashboard:
 - **Name:** Darshit Kumar
